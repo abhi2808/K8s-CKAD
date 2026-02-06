@@ -1,3 +1,11 @@
+connect to cluster using:
+Minfy@AbhinavBisht MINGW64 ~
+$ aws eks update-kubeconfig \
+  --region ap-south-1 \
+  --name k8s-prac
+Added new context arn:aws:eks:ap-south-1:183295435445:cluster/k8s-prac to C:\Users\Minfy\.kube\config
+
+
 # namespaces
 
 created at cluster creation:
